@@ -172,14 +172,14 @@
   </url>
   
   <url>
-    <loc>https://unborracho.github.io/tags/%E4%BA%8C%E6%AC%A1%E5%89%A9%E4%BD%99/</loc>
+    <loc>https://unborracho.github.io/tags/DaliyLife/</loc>
     <lastmod>2023-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://unborracho.github.io/tags/DaliyLife/</loc>
+    <loc>https://unborracho.github.io/tags/%E4%BA%8C%E6%AC%A1%E5%89%A9%E4%BD%99/</loc>
     <lastmod>2023-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -196,6 +196,13 @@
   
   <url>
     <loc>https://unborracho.github.io/categories/Crypto/</loc>
+    <lastmod>2023-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://unborracho.github.io/categories/Daliy/</loc>
     <lastmod>2023-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
